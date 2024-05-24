@@ -1,0 +1,17 @@
+@charset "utf-8";
+/**
+ * 分页组件CSS样式 fpage(js)
+ * 
+ * @author Jun Wu
+ * @version 1.1.1 2012-06-05
+ */
+
+div.page { overflow: hidden; text-align: center; margin: 10px 0 20px 0; font-size: 14px; }
+div.page * { font-size: 14px; margin: 0; }
+div.page span { margin-left: 20px; }
+div.page input { width: 30px; text-align: center; }
+div.page button,
+div.page input { font-size: 12px; }
+div.page a,
+div.page strong { display: inline-block; padding: 0px 3px; border: 1px solid #FFF; }
+div.page a:hover { border: 1px solid; text-decoration: none; }
